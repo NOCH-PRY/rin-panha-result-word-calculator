@@ -1,0 +1,55 @@
+2025-05-17 08:59:39 - 
+            Riel: 123 → USD: 0.03 $
+            English: One Hundred Twenty Three Riel
+            លេខខ្មែរ: មួយ រយ ម្ភៃ បី រៀល
+        
+2025-05-17 08:59:54 - 
+            Riel: 34566 → USD: 8.64 $
+            English: Thirty Four Thousand Five Hundred Sixty Six Riel
+            លេខខ្មែរ: សាមសិប បួន ពាន់ ប្រាំ រយ ហុកសិប ប្រាំមួយ រៀល
+        
+2025-05-17 09:03:36 - 
+            Riel: 34566 → USD: 8.64 $
+            English: Thirty Four Thousand Five Hundred Sixty Six Riel
+            លេខខ្មែរ: សាមសិប បួន ពាន់ ប្រាំ រយ ហុកសិប ប្រាំមួយ រៀល
+        
+2025-05-17 09:04:28 - 
+            Riel: 34566 → USD: 8.64 $
+            English: Thirty Four Thousand Five Hundred Sixty Six Riel
+            លេខខ្មែរ: សាមសិប បួន ពាន់ ប្រាំ រយ ហុកសិប ប្រាំមួយ រៀល
+        
+2025-05-17 09:04:39 - 
+            Riel: 3444 → USD: 0.86 $
+            English: Three Thousand Four Hundred Forty Four Riel
+            លេខខ្មែរ: បី ពាន់ បួន រយ សែសិប បួន រៀល
+        
+2025-05-17 09:04:42 - 
+            Riel: 7888 → USD: 1.97 $
+            English: Seven Thousand Eight Hundred Eighty Eight Riel
+            លេខខ្មែរ: ប្រាំពីរ ពាន់ ប្រាំបី រយ ប៉ែតសិប ប្រាំបី រៀល
+        
+2025-05-17 09:04:46 - 
+            Riel: 888 → USD: 0.22 $
+            English: Eight Hundred Eighty Eight Riel
+            លេខខ្មែរ: ប្រាំបី រយ ប៉ែតសិប ប្រាំបី រៀល
+        
+2025-07-08 14:09:33 - 
+            Riel: 2 → USD: 0.00 $
+            English: Two Riel
+            លេខខ្មែរ: ពីរ រៀល
+        
+2025-07-08 14:10:06 - 
+            Riel: 4 → USD: 0.00 $
+            English: Four Riel
+            លេខខ្មែរ: បួន រៀល
+        
+2025-07-08 14:12:55 - 
+            Riel: 2 → USD: 0.00 $
+            English: Two Riel
+            លេខខ្មែរ: ពីរ រៀល
+        
+2025-07-08 14:13:44 - 
+            Riel: 50000 → USD: 12.50 $
+            English: Fifty Thousand Riel
+            លេខខ្មែរ: ហាសិប ពាន់ រៀល
+        
